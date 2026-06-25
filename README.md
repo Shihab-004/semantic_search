@@ -148,6 +148,6 @@ This demo shows that with a single AI layer, Daraj could:
 
 ##  About
 
-Built as a proof-of-concept to highlight a real UX problem in [Daraj](https://daraj.com.bd) — Bangladesh's leading e-commerce platform.
+Built as a proof-of-concept to highlight a real UX problem in [Daraz](https://daraz.com.bd) — Bangladesh's leading e-commerce platform.
 
 This is not an official Daraz project.
