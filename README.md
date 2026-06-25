@@ -1,4 +1,4 @@
-# 🔍 Daraj Search Demo — AI vs Normal Search
+# 🔍 Daraz Search Demo — AI vs Normal Search
 
 A mini project that exposes a **real flaw in Daraj's search engine** and demonstrates how AI can fix it.
 
@@ -150,4 +150,4 @@ This demo shows that with a single AI layer, Daraj could:
 
 Built as a proof-of-concept to highlight a real UX problem in [Daraj](https://daraj.com.bd) — Bangladesh's leading e-commerce platform.
 
-This is not an official Daraj project.
+This is not an official Daraz project.
